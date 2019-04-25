@@ -4,7 +4,8 @@ Me gustan muchas cosas
 
 Exprimir coisas que não entendo
 
-url[https://youtu.be/vdQej40arDE]
+[https://youtu.be/vdQej40arDE](url)
+
 
 ### Markdown
 
@@ -26,7 +27,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 
-![https://github.com/jscanass/jscanass.github.io/blob/master/IMG-20190421-WA0016.jpeg]
+![https://github.com/jscanass/jscanass.github.io/blob/master/IMG-20190421-WA0016.jpeg](src)
 ```
 
 

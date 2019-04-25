@@ -26,10 +26,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 
-![Image]
+![https://github.com/jscanass/jscanass.github.io/blob/master/IMG-20190421-WA0016.jpeg]
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 

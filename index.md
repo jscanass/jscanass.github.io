@@ -27,7 +27,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 
-![https://github.com/jscanass/jscanass.github.io/blob/master/IMG-20190421-WA0016.jpeg](src)
+![pasadista](https://github.com/jscanass/jscanass.github.io/blob/master/IMG-20190421-WA0016.jpeg)
 ```
 
 

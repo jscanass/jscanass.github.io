@@ -1,8 +1,6 @@
 ## jscanass
 
-Me gustan muchas cosas
-
-Exprimir coisas que não entendo
+TODO
 
 [https://youtu.be/vdQej40arDE]
 
@@ -15,4 +13,3 @@ Exprimir coisas que não entendo
 
 ### Support or Contact
 
-Busque a Dios

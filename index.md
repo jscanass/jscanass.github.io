@@ -3,7 +3,6 @@
 long-term goal is to learn, understand, and construct computational models to solve real-world problems
 in socio-ecological systems, biodiversity conservation, and climate change.
 
-[https://youtu.be/vdQej40arDE]
 [GitHub](https://github.com/jscanass)/[LinkedIn](https://www.linkedin.com/in/jscanass/) / [Twitter](https://twitter.com/jscanass) / [Google Scholar](https://scholar.google.com/citations?user=rLFshuYAAAAJ&hl=en).
 
 

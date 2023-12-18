@@ -3,20 +3,18 @@
 long-term goal is to learn, understand, and construct computational models to solve real-world problems
 in socio-ecological systems, biodiversity conservation, and climate change.
 
-[GitHub](https://github.com/jscanass)/[LinkedIn](https://www.linkedin.com/in/jscanass/) / [Twitter](https://twitter.com/jscanass) / [Google Scholar](https://scholar.google.com/citations?user=rLFshuYAAAAJ&hl=en).
+[GitHub](https://github.com/jscanass) / [LinkedIn](https://www.linkedin.com/in/jscanass/) / [Twitter](https://twitter.com/jscanass) / [Google Scholar](https://scholar.google.com/citations?user=rLFshuYAAAAJ&hl=en).
 
 
 ### Research Interest
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Ecosystem and animal biodiversity are declining as never before. Earth’s biodiversity urgently needs innovative and practical solutions for its conservation and management. Ecology and biodiversity monitoring have a symbiotic relationship with machine learning. On one hand, ecological inquiries could be studied using the tools of machine learning, offering a set of novel methods to process, extract, and analyze data. On the other hand, ecological systems are unique in scale, complexity, and richness. These problems often involve multiple parties for combinatorial decisions in highly dynamic and uncertain environments. Hence, machine learning challenges arise as domain shift, spatiotemporal correlations, fine-grained categories, learning across data modalities, self-supervised representation learning, human-machine collaboration, and long-tailed distributions. In this way, ecology could be seen as a playground for exploring the scientific foundations of machine learning. Finally, I'm also interested in how to work together with local communities to co-create conservation tools that have an impact on biodiversity conservation.
 
 ### Journal Publications
 
 *   Cañas, J.S., Toro-Gomez, M.P., Sugai, L.S.M. et al. A dataset for benchmarking Neotropical anuran ´
 calls identification in passive acoustic monitoring. Sci. Data 10, 771 (2023).  [https://doi.org/10.
-1038/s41597-023-02666-2](https://doi.org/10.1038/s41597-023-02666-2)
+1038/s41597-023-02666-2](https://doi.org/10.1038/s41597-023-02666-2) [Webpage](https://soundclim.github.io/anuraweb/)
 
 ### Preprints
 
@@ -24,21 +22,20 @@ calls identification in passive acoustic monitoring. Sci. Data 10, 771 (2023).  
 Enhance Clinical Decision-Making in Schizophrenia using Digital Phenotyping. arXiv:2306.03980
 (2023). [https://arxiv.org/abs/2306.03980](https://arxiv.org/abs/2306.03980)
 
+### About Me
 
-### My background
-
-
+I’m a researcher at the Humboldt Institute in Colombia and a collaborating researcher at the Mila-Quebec AI Institute. Broadly, I work on machine learning for ecological problems. Specifically, I work on bioacoustics and ecoacoustics in different groups such as amphibians, bats, birds, insects, and the soundscape. Recently, I started to work on computer vision for automated monitoring of insects. Previously, I was an undergraduate student at the National University of Colombia in the Mathematics Department working with Prof. Francisco Gómez where I worked on interpretability in healthcare and diverse problems in policy. 
 
 ### Media (in Spanish)
 
-*   Así utilizan la inteligencia artificial para la conservación de animales en Colombia [El Espectador](https://fcds.org.co/humboldt-y-fcds-monitorearan-la-biodiversidad/)
-*   Humboldt y FCDS monitorearán la biodiversidad en los proyectos de forestería comunitaria [FCDS](https://fcds.org.co/humboldt-y-fcds-monitorearan-la-biodiversidad/)
+*   Así utilizan la inteligencia artificial para la conservación de animales en Colombia. [El Espectador](https://fcds.org.co/humboldt-y-fcds-monitorearan-la-biodiversidad/)
+*   Humboldt y FCDS monitorearán la biodiversidad en los proyectos de forestería comunitaria. [FCDS](https://fcds.org.co/humboldt-y-fcds-monitorearan-la-biodiversidad/)
 
+### Other
 
+*   *Hiking and Running.* I endorse the [philosophical manifesto](https://www.harukimurakami.com/book/what-i-talk-about-when-i-talk-about-running-a-memoir) by Murakami about running. I try to expand this in the mountains.
+*   *Music.*  
+*   *Films and Literature.*
 
-
-
-
-
-### Support or Contact
+[Contact](jcanas@humboldt.org.co) 
 

@@ -2,7 +2,7 @@
 
 I’m a researcher at the [Humboldt Institute](https://www.humboldt.org.co/) in Colombia and a collaborating researcher at the [Mila-Quebec AI Institute](https://mila.quebec/). Broadly, I work on machine learning for ecological problems. Specifically, I work on bioacoustics and ecoacoustics in different groups such as amphibians, bats, birds, insects, and the soundscape. Recently, I started to work on computer vision for automated monitoring of insects. Previously, I was an undergraduate student at the [National University of Colombia](https://unal.edu.co/) in the Mathematics Department working with [Prof. Francisco Gómez](https://sites.google.com/site/fagomezj/) where I worked on interpretability in healthcare and diverse problems in policy. 
 
-[GitHub](https://github.com/jscanass) / [LinkedIn](https://www.linkedin.com/in/jscanass/) / [Twitter](https://twitter.com/jscanass) / [Google Scholar](https://scholar.google.com/citations?user=rLFshuYAAAAJ&hl=en).
+[GitHub](https://github.com/jscanass) / [LinkedIn](https://www.linkedin.com/in/jscanass/) / [Twitter](https://twitter.com/jscanass) / [Google Scholar](https://scholar.google.com/citations?user=rLFshuYAAAAJ&hl=en)
 
 
 ### Journal Publications

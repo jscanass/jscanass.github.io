@@ -30,7 +30,7 @@ Ecology and biodiversity monitoring have a symbiotic relationship with machine l
 
 ### Living ~~Other~~ 
 
-*   *Hiking and Running.* I endorse the [philosophical manifesto](https://www.harukimurakami.com/book/what-i-talk-about-when-i-talk-about-running-a-memoir) by Murakami about running. I try to expand this in different [landscapes](./landscapes.md). Sometimes, I track my running activity on[Strava](https://www.strava.com/athletes/13042082)
+*   *Hiking and Running.* I endorse the [philosophical manifesto](https://www.harukimurakami.com/book/what-i-talk-about-when-i-talk-about-running-a-memoir) by Murakami about running. I try to expand this in different [landscapes](./landscapes.md). Sometimes, I track my running activity on [Strava](https://www.strava.com/athletes/13042082)
 *   *Music.* During my life, I have been intimate and close with music to carry on with the tempo of time. As a consequence, I'm a professional collector of [playlists](https://open.spotify.com/user/jscanass/playlists).
 *  *Films and Literature.* I found the [Cormac McCarthy’s tips](https://www.nature.com/articles/d41586-019-02918-5) very similar to what [Roberto Bolaño's](https://lithub.com/roberto-bolanos-best-advice-for-writing-short-stories-is-pretty-wild/) advice about short tales.
 

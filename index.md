@@ -34,7 +34,7 @@ Ecology and biodiversity monitoring have a symbiotic relationship with machine l
 *   *Music.*  
 *   *Films and Literature.*
 
-### Contact
+### Contact
 
 jcanas (at) humboldt.org.co
 

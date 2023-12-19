@@ -1,14 +1,9 @@
+### About Me
 
-¡Hola! I'm an applied mathematician passionate about artificial intelligence for social impact and sustainability. My
-long-term goal is to learn, understand, and construct computational models to solve real-world problems
-in socio-ecological systems, biodiversity conservation, and climate change.
+I’m a researcher at the [Humboldt Institute](https://www.humboldt.org.co/) in Colombia and a collaborating researcher at the [Mila-Quebec AI Institute](https://mila.quebec/). Broadly, I work on machine learning for ecological problems. Specifically, I work on bioacoustics and ecoacoustics in different groups such as amphibians, bats, birds, insects, and the soundscape. Recently, I started to work on computer vision for automated monitoring of insects. Previously, I was an undergraduate student at the National University of Colombia in the Mathematics Department working with [Prof. Francisco Gómez](https://sites.google.com/site/fagomezj/) where I worked on interpretability in healthcare and diverse problems in policy. 
 
 [GitHub](https://github.com/jscanass) / [LinkedIn](https://www.linkedin.com/in/jscanass/) / [Twitter](https://twitter.com/jscanass) / [Google Scholar](https://scholar.google.com/citations?user=rLFshuYAAAAJ&hl=en).
 
-
-### Research Interest
-
-Ecosystem and animal biodiversity are declining as never before. Earth’s biodiversity urgently needs innovative and practical solutions for its conservation and management. Ecology and biodiversity monitoring have a symbiotic relationship with machine learning. On one hand, ecological inquiries could be studied using the tools of machine learning, offering a set of novel methods to process, extract, and analyze data. On the other hand, ecological systems are unique in scale, complexity, and richness. These problems often involve multiple parties for combinatorial decisions in highly dynamic and uncertain environments. Hence, machine learning challenges arise as domain shift, spatiotemporal correlations, fine-grained categories, learning across data modalities, self-supervised representation learning, human-machine collaboration, and long-tailed distributions. In this way, ecology could be seen as a playground for exploring the scientific foundations of machine learning. Finally, I'm also interested in how to work together with local communities to co-create conservation tools that have an impact on biodiversity conservation.
 
 ### Journal Publications
 
@@ -22,9 +17,11 @@ calls identification in passive acoustic monitoring. Sci. Data 10, 771 (2023).  
 Enhance Clinical Decision-Making in Schizophrenia using Digital Phenotyping. arXiv:2306.03980
 (2023). [https://arxiv.org/abs/2306.03980](https://arxiv.org/abs/2306.03980)
 
-### About Me
 
-I’m a researcher at the Humboldt Institute in Colombia and a collaborating researcher at the Mila-Quebec AI Institute. Broadly, I work on machine learning for ecological problems. Specifically, I work on bioacoustics and ecoacoustics in different groups such as amphibians, bats, birds, insects, and the soundscape. Recently, I started to work on computer vision for automated monitoring of insects. Previously, I was an undergraduate student at the National University of Colombia in the Mathematics Department working with Prof. Francisco Gómez where I worked on interpretability in healthcare and diverse problems in policy. 
+### Research Interest
+
+Ecology and biodiversity monitoring have a symbiotic relationship with machine learning. On one hand, machine learning offers a set of novel methods to process, extract, and analyze ecological data. On the other hand, ecology could be seen as a playground for exploring the scientific foundations of machine learning. Ecological systems are unique in scale, complexity, and richness. These problems often involve multiple parties for combinatorial decisions in highly dynamic and uncertain environments. Hence, machine learning challenges arise as domain shift, spatiotemporal correlations, fine-grained categories, learning across data modalities, self-supervised representation learning, human-machine collaboration, and long-tailed distributions. Finally, I'm also interested in how to work together with local communities to co-create conservation tools that have an impact on biodiversity conservation.
+
 
 ### Media (in Spanish)
 

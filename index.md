@@ -35,5 +35,5 @@ Ecology and biodiversity monitoring have a symbiotic relationship with machine l
 
 ### Contact
 
-jcanas (at) humboldt.org.co
+juan.canas (at) ucl.ac.uk
 

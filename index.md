@@ -1,6 +1,6 @@
 ### About
 
-I'm Juan Sebastián, a PhD student in the [People and Nature Lab](https://www.ucl.ac.uk/biosciences/gee/people-and-nature-lab) and the [CBER](https://www.ucl.ac.uk/biosciences/gee/ucl-centre-biodiversity-and-environment-research) at University College London. My research interests span the fields of artificial intelligence, biodiversity monitoring, sustainability, and social impact, with a particular focus on utilizing bioacoustics and deep learning against global ecological crisis. Currently, my work centres on understanding the drivers of population change in different taxonomic groups such as amphibians, insects, and bats through creating machine learning systems that work on real-world monitoring networks in Europe and the Neotropics. 
+I'm Juan Sebastián, a PhD student in the [People and Nature Lab](https://www.ucl.ac.uk/biosciences/gee/people-and-nature-lab) and the [CBER](https://www.ucl.ac.uk/biosciences/gee/ucl-centre-biodiversity-and-environment-research) at University College London (UCL). My research interests span the fields of artificial intelligence, biodiversity monitoring, sustainability, and social impact, with a particular focus on utilizing bioacoustics and deep learning. Currently, I'm working on understanding the drivers of population change in different taxonomic groups such as amphibians, insects, and bats through creating machine learning systems that work on real-world monitoring networks in Europe and the Neotropics. 
 
 Previously, I was a researcher at the [Humboldt Institute](http://www.humboldt.org.co/es) in Colombia and a collaborating researcher at the [Mila-Quebec AI Institute](https://mila.quebec/) in Montréal, living between Audiomoths and [Moths](https://mila.quebec/en/automated-monitoring-of-insects-ami). My undergraduate studies were at the [National University of Colombia](https://unal.edu.co/) in the Mathematics Department working with [Prof. Francisco Gómez](https://sites.google.com/site/fagomezj/) where I worked on interpretability in healthcare and diverse problems in policy. 
 
@@ -39,5 +39,5 @@ Ecology and biodiversity monitoring have a symbiotic relationship with machine l
 
 ### Contact
 
-If you want to talk about anything above, feel free to email me at juan.canas (at) ucl.ac.uk
+If you'd like to discuss anything above, feel free to email me at juan.canas (at) ucl.ac.uk
 

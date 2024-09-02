@@ -1,6 +1,10 @@
 ### About
 
-I'm a researcher at the [Humboldt Institute](http://www.humboldt.org.co/es) in Colombia and a collaborating researcher at the [Mila-Quebec AI Institute](https://mila.quebec/). I work on machine learning for ecological problems, living between Audiomoths and Moths. Specifically, I work on ecoacoustics and bioacoustics in different groups such as amphibians, bats, birds, insects, and the soundscape. Recently, I started to work on computer vision for automated monitoring of insects. Previously, I was an undergraduate student at the [National University of Colombia](https://unal.edu.co/) in the Mathematics Department working with [Prof. Francisco Gómez](https://sites.google.com/site/fagomezj/) where I worked on interpretability in healthcare and diverse problems in policy. 
+I'm a PhD student at University College London in the [People and Nature Lab](https://www.ucl.ac.uk/biosciences/gee/people-and-nature-lab) of the [CBER](https://www.ucl.ac.uk/biosciences/gee/ucl-centre-biodiversity-and-environment-research). My research interests span the fields of artificial intelligence, biodiversity monitoring, sustainability, and social impact, with a particular focus on utilizing bioacoustics and deep learning against global ecological crisis. Currently, my work centres on understanding the drivers of population change in different taxonomic groups such as amphibians, insects, and bats through creating machine learning systems that work on real-world monitoring networks in Europe and the Neotropics. My long-term goal is to learn, understand, and construct computational models to solve real-world problems in socio-ecological systems, biodiversity conservation, and climate change.
+
+Previously, I was a researcher at the [Humboldt Institute](http://www.humboldt.org.co/es) in Colombia and a collaborating researcher at the [Mila-Quebec AI Institute](https://mila.quebec/) in Montréal, living between Audiomoths and [Moths](https://mila.quebec/en/automated-monitoring-of-insects-ami). My undergraduate studies were at the [National University of Colombia](https://unal.edu.co/) in the Mathematics Department working with [Prof. Francisco Gómez](https://sites.google.com/site/fagomezj/) where I worked on interpretability in healthcare and diverse problems in policy. 
+
+I am also part of the [Ecoacoustics Colombian Network (Red Ecoacústica Colombiana - REC)](https://redecoacustica.org/) where I work on different projects around education, environmental policy, and artificial intelligence for the Neotropics.
 
 [GitHub](https://github.com/jscanass) / [LinkedIn](https://www.linkedin.com/in/jscanass/) / [Twitter](https://twitter.com/jscanass) / [Google Scholar](https://scholar.google.com/citations?user=rLFshuYAAAAJ&hl=en)
 
@@ -29,11 +33,11 @@ Ecology and biodiversity monitoring have a symbiotic relationship with machine l
 ### Other 
 
 *   *Hiking and Running.* I endorse the [philosophical manifesto](https://www.harukimurakami.com/book/what-i-talk-about-when-i-talk-about-running-a-memoir) by Murakami about running. I try to expand this in different landscapes. Sometimes, I track my running activity on [Strava](https://www.strava.com/athletes/13042082).
-*   *Music.* I'm a professional ~~bug~~ collector of [playlists](https://open.spotify.com/user/jscanass/playlists).
-*  *Films and Literature.* I found [Cormac McCarthy’s tips](https://www.nature.com/articles/d41586-019-02918-5) for short tales very similar to [Roberto Bolaño's](https://lithub.com/roberto-bolanos-best-advice-for-writing-short-stories-is-pretty-wild/) advice on how to write a great science paper.
+*   *Music.* I'm a ~~bug~~ collector of [playlists](https://open.spotify.com/user/jscanass/playlists).
+*  *Films and Literature.* I found [Cormac McCarthy’s tips](https://www.nature.com/articles/d41586-019-02918-5) for short tales very similar to [Roberto Bolaño's](https://lithub.com/roberto-bolanos-best-advice-for-writing-short-stories-is-pretty-wild/) advice on how to write a great science papers.
 
 
 ### Contact
 
-juan.canas (at) ucl.ac.uk
+If you want to talk about anything above, feel free to email me at juan.canas (at) ucl.ac.uk
 

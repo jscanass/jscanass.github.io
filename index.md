@@ -12,10 +12,10 @@ I am also part of the [Ecoacoustics Colombian Network (Red Ecoacústica Colombia
 ### Publications
 
 * Jain, A., Cunha, F., Bunsen, M., Cañas, J.S., ..., Rolnick, D. Insect Identification in the Wild: The AMI Dataset.
-ECCV 2024 (2024). [https://arxiv.org/abs/2406.12452](https://arxiv.org/abs/2406.12452)](https://doi.org/10.1038/s41597-023-02666-2) [Webpage](https://mila.quebec/en/ai4humanity/applied-projects/antenna)
+ECCV 2024 (2024). [https://arxiv.org/abs/2406.12452](https://arxiv.org/abs/2406.12452)](https://doi.org/10.1038/s41597-023-02666-2) [[Webpage]](https://mila.quebec/en/ai4humanity/applied-projects/antenna)
 
 *   Cañas, J.S., Toro-Gomez, M.P., Sugai, L.S.M., ..., Ulloa, J.S. A dataset for benchmarking Neotropical anuran calls identification in passive acoustic monitoring. Scientific Data 10, 771 (2023).  [https://doi.org/10.
-1038/s41597-023-02666-2](https://doi.org/10.1038/s41597-023-02666-2) [Webpage](https://soundclim.github.io/anuraweb/)
+1038/s41597-023-02666-2](https://doi.org/10.1038/s41597-023-02666-2) [[Webpage]](https://soundclim.github.io/anuraweb/)
 
 *   Cañas, J.S., Gomez, F., Costilla-Reyes, O. Counterfactual Explanations and Predictive Models to Enhance Clinical Decision-Making in Schizophrenia using Digital Phenotyping. arXiv:2306.03980 (Preprint)
 (2023). [https://arxiv.org/abs/2306.03980](https://arxiv.org/abs/2306.03980)

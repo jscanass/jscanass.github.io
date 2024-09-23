@@ -12,7 +12,7 @@ I am also part of the [Ecoacoustics Colombian Network (Red Ecoacústica Colombia
 ### Publications
 
 * Jain, A., Cunha, F., Bunsen, M., Cañas, J.S., ..., Rolnick, D. Insect Identification in the Wild: The AMI Dataset.
-ECCV 2024 (2024). [https://arxiv.org/abs/2406.12452](https://arxiv.org/abs/2406.12452)](https://doi.org/10.1038/s41597-023-02666-2) [[Webpage]](https://mila.quebec/en/ai4humanity/applied-projects/antenna)
+ECCV 2024 (2024). [https://arxiv.org/abs/2406.12452](https://arxiv.org/abs/2406.12452)[[Webpage]](https://mila.quebec/en/ai4humanity/applied-projects/antenna)
 
 *   Cañas, J.S., Toro-Gomez, M.P., Sugai, L.S.M., ..., Ulloa, J.S. A dataset for benchmarking Neotropical anuran calls identification in passive acoustic monitoring. Scientific Data 10, 771 (2023).  [https://doi.org/10.
 1038/s41597-023-02666-2](https://doi.org/10.1038/s41597-023-02666-2) [[Webpage]](https://soundclim.github.io/anuraweb/)
@@ -28,7 +28,7 @@ Ecology and biodiversity monitoring have a symbiotic relationship with machine l
 
 ### Media (in Spanish)
 
-*   Así utilizan la inteligencia artificial para la conservación de animales en Colombia. [El Espectador](https://www.msn.com/es-co/noticias/nacional/as%C3%AD-utilizan-la-inteligencia-artificial-para-la-conservaci%C3%B3n-de-animales-en-colombia/ar-AA1gXl04)
+*   Así utilizan la inteligencia artificial para la conservación de animales en Colombia. [El Espectador](https://www.elespectador.com/la-red-zoocial/asi-utilizan-la-inteligencia-artificial-para-la-conservacion-de-animales-en-colombia/)
 *   Humboldt y FCDS monitorearán la biodiversidad en los proyectos de forestería comunitaria. [FCDS](https://fcds.org.co/humboldt-y-fcds-monitorearan-la-biodiversidad/)
 
 ### Other 
